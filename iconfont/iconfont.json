@@ -1,0 +1,93 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "405719",
+      "name": "linkedin0",
+      "font_class": "linkedin0",
+      "unicode": "e698",
+      "unicode_decimal": 59032
+    },
+    {
+      "icon_id": "431850",
+      "name": "linkedin2",
+      "font_class": "linkedin2",
+      "unicode": "e748",
+      "unicode_decimal": 59208
+    },
+    {
+      "icon_id": "572617",
+      "name": "QQ",
+      "font_class": "qq",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "739044",
+      "name": "wechat",
+      "font_class": "wechat",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "924304",
+      "name": "at",
+      "font_class": "at",
+      "unicode": "e8a6",
+      "unicode_decimal": 59558
+    },
+    {
+      "icon_id": "4936972",
+      "name": "instagram",
+      "font_class": "instagram",
+      "unicode": "e87f",
+      "unicode_decimal": 59519
+    },
+    {
+      "icon_id": "6447345",
+      "name": "instgram",
+      "font_class": "instgram_icon",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "13253816",
+      "name": "linkedin",
+      "font_class": "linkedin",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "15378666",
+      "name": "orcid",
+      "font_class": "orcid",
+      "unicode": "ec49",
+      "unicode_decimal": 60489
+    },
+    {
+      "icon_id": "23190929",
+      "name": "WECHAT",
+      "font_class": "WECHAT",
+      "unicode": "ea25",
+      "unicode_decimal": 59941
+    },
+    {
+      "icon_id": "27365054",
+      "name": "facebook",
+      "font_class": "facebook",
+      "unicode": "ebfc",
+      "unicode_decimal": 60412
+    },
+    {
+      "icon_id": "42111992",
+      "name": "google-scholar",
+      "font_class": "google-scholar",
+      "unicode": "e814",
+      "unicode_decimal": 59412
+    }
+  ]
+}

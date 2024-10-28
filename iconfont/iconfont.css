@@ -1,0 +1,61 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('iconfont.ttf?t=1729742982124') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-linkedin0:before {
+  content: "\e698";
+}
+
+.icon-linkedin2:before {
+  content: "\e748";
+}
+
+.icon-qq:before {
+  content: "\e62b";
+}
+
+.icon-wechat:before {
+  content: "\e629";
+}
+
+.icon-at:before {
+  content: "\e8a6";
+}
+
+.icon-instagram:before {
+  content: "\e87f";
+}
+
+.icon-instgram_icon:before {
+  content: "\e601";
+}
+
+.icon-linkedin:before {
+  content: "\e60b";
+}
+
+.icon-orcid:before {
+  content: "\ec49";
+}
+
+.icon-WECHAT:before {
+  content: "\ea25";
+}
+
+.icon-facebook:before {
+  content: "\ebfc";
+}
+
+.icon-google-scholar:before {
+  content: "\e814";
+}
+
